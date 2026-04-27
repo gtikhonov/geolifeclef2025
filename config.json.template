@@ -1,0 +1,9 @@
+{
+    "GLC_DATA_PATH": "/path/to/data",
+    "GLC_SCRATCH_PATH": "/path/to/scratch",
+    "LOCAL_SCRATCH": "/path/to/local/scratch",
+    "HMSC_HPC_PATH": "/path/to/hmsc-hpc",
+    "PRITHVI_WEIGHTS_PATH": "/path/to/prithvi/weights",
+    "MAHTI_SCRATCH": "/path/to/maHTI/scratch",
+    "MAHTI_DATA_PATH": "/path/to/maHTI/data"
+}
